@@ -1,0 +1,9 @@
+.idea
+*.iml
+*.ipr
+*.iws
+project/target/
+project/project/
+target/
+.metals/
+.bloop/
